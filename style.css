@@ -1,2 +1,22 @@
+.sidebar {
+    position: fixed;
+    top: 10%;
+    bottom: 0;
+    right: 0;
+    background-color:#212529; 
+    padding: 0;
+    width:320px;
+    
+  }
 
+  h2{
+   display: flex;
+   justify-content: flex-end;
+   padding-right: 195px;
+  }
+  
+  .container:hover{
+        transform: scale(1.1);
+      }
 
+  
